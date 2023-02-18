@@ -1,0 +1,30 @@
+O:\Личное\GB\C#\Seminar№2\HW\LESSON1_HW10\bin\Debug\net6.0\LESSON1_HW10.exe
+O:\Личное\GB\C#\Seminar№2\HW\LESSON1_HW10\bin\Debug\net6.0\LESSON1_HW10.deps.json
+O:\Личное\GB\C#\Seminar№2\HW\LESSON1_HW10\bin\Debug\net6.0\LESSON1_HW10.runtimeconfig.json
+O:\Личное\GB\C#\Seminar№2\HW\LESSON1_HW10\bin\Debug\net6.0\LESSON1_HW10.dll
+O:\Личное\GB\C#\Seminar№2\HW\LESSON1_HW10\bin\Debug\net6.0\LESSON1_HW10.pdb
+O:\Личное\GB\C#\Seminar№2\HW\LESSON1_HW10\obj\Debug\net6.0\LESSON1_HW10.csproj.AssemblyReference.cache
+O:\Личное\GB\C#\Seminar№2\HW\LESSON1_HW10\obj\Debug\net6.0\LESSON1_HW10.GeneratedMSBuildEditorConfig.editorconfig
+O:\Личное\GB\C#\Seminar№2\HW\LESSON1_HW10\obj\Debug\net6.0\LESSON1_HW10.AssemblyInfoInputs.cache
+O:\Личное\GB\C#\Seminar№2\HW\LESSON1_HW10\obj\Debug\net6.0\LESSON1_HW10.AssemblyInfo.cs
+O:\Личное\GB\C#\Seminar№2\HW\LESSON1_HW10\obj\Debug\net6.0\LESSON1_HW10.csproj.CoreCompileInputs.cache
+O:\Личное\GB\C#\Seminar№2\HW\LESSON1_HW10\obj\Debug\net6.0\LESSON1_HW10.dll
+O:\Личное\GB\C#\Seminar№2\HW\LESSON1_HW10\obj\Debug\net6.0\refint\LESSON1_HW10.dll
+O:\Личное\GB\C#\Seminar№2\HW\LESSON1_HW10\obj\Debug\net6.0\LESSON1_HW10.pdb
+O:\Личное\GB\C#\Seminar№2\HW\LESSON1_HW10\obj\Debug\net6.0\LESSON1_HW10.genruntimeconfig.cache
+O:\Личное\GB\C#\Seminar№2\HW\LESSON1_HW10\obj\Debug\net6.0\ref\LESSON1_HW10.dll
+O:\Личное\GB\C#\Seminar №2\HW\LESSON1_HW10\obj\Debug\net6.0\LESSON1_HW10.csproj.AssemblyReference.cache
+O:\Личное\GB\C#\Seminar №2\HW\LESSON1_HW10\obj\Debug\net6.0\LESSON1_HW10.GeneratedMSBuildEditorConfig.editorconfig
+O:\Личное\GB\C#\Seminar №2\HW\LESSON1_HW10\obj\Debug\net6.0\LESSON1_HW10.AssemblyInfoInputs.cache
+O:\Личное\GB\C#\Seminar №2\HW\LESSON1_HW10\obj\Debug\net6.0\LESSON1_HW10.AssemblyInfo.cs
+O:\Личное\GB\C#\Seminar №2\HW\LESSON1_HW10\obj\Debug\net6.0\LESSON1_HW10.csproj.CoreCompileInputs.cache
+O:\Личное\GB\C#\Seminar №2\HW\LESSON1_HW10\obj\Debug\net6.0\LESSON1_HW10.dll
+O:\Личное\GB\C#\Seminar №2\HW\LESSON1_HW10\obj\Debug\net6.0\refint\LESSON1_HW10.dll
+O:\Личное\GB\C#\Seminar №2\HW\LESSON1_HW10\obj\Debug\net6.0\LESSON1_HW10.pdb
+O:\Личное\GB\C#\Seminar №2\HW\LESSON1_HW10\bin\Debug\net6.0\LESSON1_HW10.exe
+O:\Личное\GB\C#\Seminar №2\HW\LESSON1_HW10\bin\Debug\net6.0\LESSON1_HW10.deps.json
+O:\Личное\GB\C#\Seminar №2\HW\LESSON1_HW10\bin\Debug\net6.0\LESSON1_HW10.runtimeconfig.json
+O:\Личное\GB\C#\Seminar №2\HW\LESSON1_HW10\bin\Debug\net6.0\LESSON1_HW10.dll
+O:\Личное\GB\C#\Seminar №2\HW\LESSON1_HW10\bin\Debug\net6.0\LESSON1_HW10.pdb
+O:\Личное\GB\C#\Seminar №2\HW\LESSON1_HW10\obj\Debug\net6.0\LESSON1_HW10.genruntimeconfig.cache
+O:\Личное\GB\C#\Seminar №2\HW\LESSON1_HW10\obj\Debug\net6.0\ref\LESSON1_HW10.dll
